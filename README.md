@@ -6,8 +6,9 @@ il existe des outils pour vous simplifier la vie ! Comme par exemple  le framewo
 # Objectif
 
 * Installer Twitter Bootstrap dans son projet
+* Rendre une page responsive grâce à Twitter Bootstrap
 * Comprendre le système de *grid*
-* Utiliser les composants front les plus répandus proposer par bootstrap (responsive menu, glyphicons, buttons, etc.)
+* Utiliser les composants *front* les plus répandus proposer par bootstrap (responsive menu, glyphicons, buttons, etc.)
 
 # Playground
 
@@ -20,3 +21,4 @@ Pour inclure bootstrap dans vos pages, privéligiez le CDN.
 
 * [Prendre en main bootstrap](https://openclassrooms.com/courses/prenez-en-main-bootstrap)
 * [Documentation Twitter Bootstrap](http://getbootstrap.com/)
+* [Grid system](https://www.youtube.com/watch?v=ceNe37KIjPY)
